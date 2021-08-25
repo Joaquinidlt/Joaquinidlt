@@ -1,4 +1,4 @@
-### Hi there 👋
+![FondoGit1](https://user-images.githubusercontent.com/81587885/130867018-01e58444-1ee8-4761-b0c4-7c049f3206b8.jpeg)
 
 <h1 align="center">Hi 👋, I'm Joaquin Ignacio de la Torre</h1>
 <h3 align="center">I'm Argentinean, I'm 25 years old, I work as a Full Stack Developer, I like technology and create valuable products, I am a very responsible person with my work, applied, honest, curious and above all, very respectful with everyone, respect first. I want to share with you my skills, welcome!!
