@@ -1,33 +1,29 @@
 ![FondoGit1](https://user-images.githubusercontent.com/81587885/130867018-01e58444-1ee8-4761-b0c4-7c049f3206b8.jpeg)
 
 <h1 align="center">Hi 👋, I'm Joaquin Ignacio de la Torre</h1>
-<h3 align="center">I work as a Full Stack Developer, I like technology and create valuable products, I am a very responsible person with my work, applied, honest, curious and above all, very respectful with everyone, respect first. I want to share with you my skills, welcome!!
+<h3 align="center">I'm a Full Stack Developer, focused on Front-end.
 </h3>
 
 ```Javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS],
+const knowledge = {
+   code: ["Javascript", "Typescript", "HTML", "CSS"],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Bootstrap"]
+         js: ["React", "Next.js", "Redux", "React Native"],
+         css: ["Bootstrap", "SASS"]
       },
       backEnd: {
          js: ["Node", "Express"]
       },
-      databases: ["MongoDB", "PostgreSQL"],
+      databases: ["MongoDB", "PostgreSQL", "Firebase"],
    },
+   mail: "joaquindlt16@gmail.com",
+   portoflio: "https://portfolio-joaquinidlt.vercel.app/",
 };
 ```
 
-- 🌱 I am now perfecting in **React Native**
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, React Native, Sequelize**
-
 - 📫 How to reach me **joaquindlt16@gmail.com**
-
-- 📄 Meet my experience: I joined Henry's BootCamp, which is a 4-month intensive, +800 hours. In the BootCamp I learned JavaScript, Html5, Css3, ReactJs, Redux, NodeJs, Express, SQL, PostgreSQL.
-  I did many projects, WeatherApp, Breaking Bad, Country Individual Project (Backend and Frontend), Dogs Individual Project (Backend and Frontend) and E-Commerce Group Project (Backend and Frontend) with 7 Developers. Now working on Personal Projects to improve my skills even more.
+- Portfolio: https://portfolio-joaquinidlt.vercel.app/ (You can see my work and certifications)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
